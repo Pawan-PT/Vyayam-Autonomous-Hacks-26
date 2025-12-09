@@ -36,6 +36,13 @@ See `/screenshots` folder for:
 - Real-time posture correction
 - Progress report generation
 
+### 🛠 Tech Stack
+- **Python** — main development language
+- **MediaPipe / OpenCV** — pose & keypoint detection for movement form
+- **Streamlit** — UI for assessment, exercises, posture feedback, and report view
+- **ReportLab / Python-PDF** — generating physiotherapy PDF reports
+- **Custom Physiotherapy Rules** — safety & exercise logic from physio knowledge (not generic AI)
+
 ---
 
 More updates will be added during the hackathon build phase.
